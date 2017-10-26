@@ -8,7 +8,7 @@ I want to create an application that displays a users listening habits for short
 ### Deliverables
 -Boilerplate react app - Redux and React is wired up. 
 -Auth w/ spotify - Implemented firebase - still need to get OAuth up and running. 
--Implement wireframes - This has not been completed yet. 
+-Implement wireframes - In progress.
 -Load top songs - Need to get OAuth up and running to load in top songs. 
 
 #### Stack:
