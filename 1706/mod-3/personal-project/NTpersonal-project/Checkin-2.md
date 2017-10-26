@@ -43,3 +43,7 @@ Email newsletter
 #### Instructor Notes
 
 #### Deliverables for next checkin:
+Implement Redux
+Dummy data for design
+Login w/ spotify (firebase is not necessarily needed)
+Progress UI
