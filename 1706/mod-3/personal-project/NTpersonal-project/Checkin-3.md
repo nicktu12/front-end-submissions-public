@@ -44,3 +44,7 @@ Email newsletter
 #### Instructor Notes
 
 #### Deliverables for next checkin:
+Navigation styling
+More time on APP styling and UI - make it fun!
+tests! for actions, reducers, snapshots and fetchMocks for the api calls
+Additional functionality for user - at least one new feature!
