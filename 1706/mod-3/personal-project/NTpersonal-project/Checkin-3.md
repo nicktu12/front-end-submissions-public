@@ -6,10 +6,10 @@
 I want to create an application that displays a users listening habits for short term, medium term and long term intervals. I would like to extend this application to also allow a user to recieve email updates about their listening habits, create playlists based on their top artists and compare against friend's listening habits. 
 
 ### Deliverables
--Boilerplate react app - Redux and React is wired up. 
--Auth w/ spotify - Implemented firebase - still need to get OAuth up and running. 
--Implement wireframes - In progress.
--Load top songs - Need to get OAuth up and running to load in top songs. 
+Implement redux
+Dummy data for design
+Login flow w/ spotify (firebase is not necessarily needed)
+Progress UI
 
 #### Stack:
 React, Router, Redux
@@ -20,7 +20,8 @@ Spotify, Facebook, OAuth
 #### Wireframes
 
 #### Waffle & Github
-
+https://github.com/nicktu12/spotify-app
+https://waffle.io/nicktu12/spotify-app
 
 #### Order Of Attack
 Iteration 1: Pull in user playlist data, display top artists, and top songs for short, medium and long term. Explore other api endpoints. 
@@ -43,7 +44,3 @@ Email newsletter
 #### Instructor Notes
 
 #### Deliverables for next checkin:
-Implement redux
-Dummy data for design
-Login flow w/ spotify (firebase is not necessarily needed)
-Progress UI
