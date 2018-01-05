@@ -125,18 +125,18 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 * [Palette Picker PWA](https://palette-picker-lfinney.herokuapp.com/)
 * [Websockets Tutorial](https://github.com/lfinney/websockets-tutorial) - added usernames, typing notification, and connect/disconnect notification
 * [House of Vars Blog Post](https://medium.com/@lucas.w.finney/adventures-in-open-source-dbca350527c2)
-* [Pattern Party GitPage](https://lfinney.github.io/pattrn-picker/)
-* [Pattern Party Repo](https://github.com/lfinney/pattrn-picker)
+* [Pattern Party]()
 
 ### Nick Teets
 
 * [Node Server Tutorial](https://github.com/nicktu12/node-express-tutorials/blob/master/messages/server.js)
-* [Express Tutorial](https://github.com/nicktu12/node-express-tutorials/blob/master/express-tutorial/server.js)
+* [Express Tutorial](https://github.com/nicktu12/node-express-tutorials/blob/master/express-tutorial/server.js) - Completed extensions: serve sunsets HTML page, send JSON data as file, add custom 404 endpoint
 * [Promise Practice Exercises](https://repl.it/@nicktu12/Promises-Practice-Exercises)
 * [Palette Picker PWA](https://nt-palettepicker-171201.herokuapp.com/)
-* [Websockets Tutorial](https://github.com/nicktu12/web-sockets-practice)
+* [Websockets Tutorial](https://github.com/nicktu12/web-sockets-practice) - Completed extensions: broadcast when user has joined or left chat, broadcast when user is typing, user can choose a custom username
 * [House of Vars Blog Post](https://medium.com/@nickteets/an-open-source-adventure-34a1b747fe6e)
-* [Pattern Party]()
+* [Pattern Party](https://github.com/nicktu12/pattern-party)
+* [Pattern Party Github Pages](https://nicktu12.github.io/pattern-party/)
 
 ### Nik Bornemeier
 
